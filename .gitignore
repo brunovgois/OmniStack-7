@@ -1,0 +1,4 @@
+# dependencias
+backend/node_modules
+
+*.lock
