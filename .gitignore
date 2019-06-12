@@ -1,4 +1,4 @@
-# dependencias
-backend/node_modules
-
+node_modules/
+*.log
 *.lock
+*.jpg
